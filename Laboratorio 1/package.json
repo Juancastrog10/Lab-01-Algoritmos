@@ -1,0 +1,16 @@
+{
+  "name": "lab-01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "serve": "^14.2.3"
+  },
+  "type": "module"
+}
